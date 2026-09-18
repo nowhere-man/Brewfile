@@ -21,6 +21,7 @@ brew "node@24"
 brew "git"
 brew "gh"
 brew "lazygit"
+brew "git-delta"
 
 # ------------------------------------------------------------
 # CLI Tools
@@ -28,18 +29,20 @@ brew "lazygit"
 
 brew "ripgrep"
 brew "fd"
-brew "jq"
-brew "yq"
-brew "tree"
-brew "cloc"
 brew "fzf"
 brew "zoxide"
+brew "tree"
+brew "scc" # cloc
+brew "jq"
+brew "yq"
+brew "bat"
+brew "eza"
 
 # ------------------------------------------------------------
 # System Utilities
 # ------------------------------------------------------------
 
-brew "superfile"
+brew "superfile" # yazi
 brew "btop"
 brew "duf"
 brew "dust"
@@ -71,6 +74,8 @@ cask "iterm2"
 cask "orbstack"
 cask "karabiner-elements"
 cask "appcleaner"
+cast "the-unarchiver"
+cast "easydict"
 
 # ------------------------------------------------------------
 # Editors / Notes
