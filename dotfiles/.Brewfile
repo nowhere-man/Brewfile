@@ -74,8 +74,10 @@ cask "iterm2"
 cask "orbstack"
 cask "karabiner-elements"
 cask "appcleaner"
-cast "the-unarchiver"
-cast "easydict"
+cask "the-unarchiver"
+cask "easydict"
+cask "keyclu"
+cask "battery"
 
 # ------------------------------------------------------------
 # Editors / Notes
